@@ -294,7 +294,7 @@ function App() {
             </svg>
           </div>
           <div className="brand-text">
-            <div className="t1">Dunia Jaring-jaring</div>
+            <div className="t1">NetExplorer</div>
             <div className="t2">Susun • Validasi • Lipat menjadi bangun ruang</div>
           </div>
         </div>
@@ -482,7 +482,7 @@ function TutorialModal({ onClose }) {
           </svg>
         </div>
         <h2>Selamat datang!</h2>
-        <p>Dunia Jaring-jaring membantu kamu memahami bagaimana jaring-jaring 2D dilipat menjadi bangun ruang. Ikuti tiga langkah berikut:</p>
+        <p>NetExplorer membantu kamu memahami bagaimana jaring-jaring 2D dilipat menjadi bangun ruang. Ikuti tiga langkah berikut:</p>
         <div className="step-list">
           <div className="step">
             <div className="step-num">1</div>
